@@ -8,10 +8,10 @@ A team mini-project for Embedded Systems (23CSE304). This educational prototype 
 The ESP32 reads temperature and relative humidity from a DHT11 sensor and an analog gas/VOC response from an MQ-135 sensor. It compares readings with experimental thresholds and activates a buzzer when any threshold is exceeded.
 
 ## Hardware
-- ESP32 Dev Module — main controller
-- DHT11 — temperature and humidity
-- MQ-135 — general gas/VOC response
-- Buzzer — audible alert
+- ESP32 Dev Module - main controller
+- DHT11 - temperature and humidity
+- MQ-135 - general gas/VOC response
+- Buzzer - audible alert
 - Breadboard, jumper wires and USB cable
 
 ## Pin connections from the project report
@@ -56,11 +56,11 @@ food-spoilage-risk-indicator/
 ├── src/
 │   └── food_spoilage_indicator.ino
 ├── hardware/
-│   ├── prototype_photo.jpg
-│   ├── system_architecture.png
+│   ├── Prototype.jpg
+│   ├── Architecture.png
 │   └── flowchart.png
 └── docs/
-    └── embedded_systems_project_report.pdf
+    └── Project Report.pdf
 ```
 
 ## Limitations
