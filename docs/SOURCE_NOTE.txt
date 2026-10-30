@@ -1,0 +1,1 @@
+Repository assembled from the supplied 14-page Embedded Systems Mini Project Report. Arduino sketch transcribed from page 11. Not independently compiled or hardware-tested during packaging.
